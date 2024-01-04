@@ -1,0 +1,15 @@
+
+Request: GET / at Thu Jan 04 2024 13:59:47 GMT-0300, IP: ::ffff:127.0.0.1, User Agent: Thunder Client (https://www.thunderclient.com)
+Response Body:
+Hello world
+Response: 200 1.857 ms 
+
+Request: POST /teste at Thu Jan 04 2024 13:59:51 GMT-0300, IP: ::ffff:127.0.0.1, User Agent: Thunder Client (https://www.thunderclient.com)
+Request Body:
+{
+	"name": "teste",
+	"email": "teste@gmail.com"
+}
+Response Body:
+teste
+Response: 200 0.815 ms 
